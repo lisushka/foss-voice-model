@@ -17,7 +17,7 @@ After experiementing with open-source tools for generating captions using their 
 ## What we know
 
 - Most people who caption their own talks use at least some proprietary tools
-- Apart from Dawn's attempt at documenting their workflow, there are few to no resources for computer-aided captioning using open-source tools (the best general resource is Meryl Evans' [**The Complete Guide to Captioned Videos**](https://meryl.net/captioned-videos-complete-guide/)
+- Apart from Dawn's attempt at documenting their workflow, there are few to no resources for computer-aided captioning using open-source tools (the best general resource is Meryl Evans' [**The Complete Guide to Captioned Videos**](https://meryl.net/captioned-videos-complete-guide/))
 - Open voice datasets such as Common Voice rely heavily on recordings of public domain texts - they are good at recognising words like 'tenement' and 'good sir', but struggle with colloquial and technical language like 'I gave Gentoo the boot and started building Arch for fun'
 - To build a model that's more likely to work for a variety of different people, our initial dataset will need to be diverse in the following attributes:
   - Accent
@@ -42,7 +42,7 @@ After experiementing with open-source tools for generating captions using their 
 
 ## Where do you come in?
 
-- We are currently searching for an Australian law firm with experience in setting up data trusts to quote for the legal work required - if you have this expertise, or know of a firm that does, please let us know [here]()
+- We are currently searching for an Australian law firm with experience in setting up data trusts to quote for the legal work required - if you have this expertise, or know of a firm that does, please let us know [here](https://github.com/lisushka/foss-voice-model/issues/1)
 - We are looking for two groups of volunteers:
   - People who have spoken at conferences before, and are willing to allow us to use the recordings in developing our initial model - go [here]()
   - People who are willing to help us with editing talk transcripts, and splitting up both audio files and transcripts so that CoquiSTT can handle them - go [here]()
