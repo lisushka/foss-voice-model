@@ -44,5 +44,5 @@ After experiementing with open-source tools for generating captions using their 
 
 - We are currently searching for an Australian law firm with experience in setting up data trusts to quote for the legal work required - if you have this expertise, or know of a firm that does, please let us know [here](https://github.com/lisushka/foss-voice-model/issues/1)
 - We are looking for two groups of volunteers:
-  - People who have spoken at conferences before, and are willing to allow us to use the recordings in developing our initial model - go [here]()
-  - People who are willing to help us with editing talk transcripts, and splitting up both audio files and transcripts so that CoquiSTT can handle them - go [here]()
+  - People who have spoken at conferences before, and are willing to allow us to use the recordings in developing our initial model - go [here](https://github.com/lisushka/foss-voice-model/issues/2)
+  - People who are willing to help us with editing talk transcripts, and splitting up both audio files and transcripts so that CoquiSTT can handle them - go [here](https://github.com/lisushka/foss-voice-model/issues/3)
